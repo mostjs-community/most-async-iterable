@@ -1,7 +1,13 @@
 require('babel-register')({
+  presets: [
+    ['env', {
+      targets: {
+        node: 'current'
+      }
+    }]
+  ],
   plugins: [
-    'transform-async-generator-functions',
-    'transform-es2015-modules-commonjs'
+    'transform-async-generator-functions'
   ]
 })
 
