@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mostjs/async-iterable.git"
+    "url": "git+https://github.com/ray851107/most-async-iterable.git"
   },
   "scripts": {
     "build": "npm run build:dist && uglifyjs dist/index.js -o dist/index.min.js",
