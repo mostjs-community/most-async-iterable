@@ -43,6 +43,7 @@
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
+  "typings": "type-definitions/most-async-iterable.d.ts",
   "peerDependencies": {
     "most": "^1.0.0"
   },
