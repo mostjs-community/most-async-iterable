@@ -1,0 +1,7 @@
+{
+  "extends": "@most/eslint-config-most",
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 2017
+  }
+}
