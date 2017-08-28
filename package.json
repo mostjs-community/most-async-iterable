@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Zong-Ru Jiang <ray851107@gmail.com> (github.com/ray851107)",
   "bugs": {
-    "url": "https://github.com/ray851107/most-async-iterable/issues"
+    "url": "https://github.com/mostjs-community/most-async-iterable/issues"
   },
   "devDependencies": {
     "@most/eslint-config-most": "^1.0.3",
@@ -34,7 +34,7 @@
     "dist",
     "type-definitions"
   ],
-  "homepage": "https://github.com/ray851107/most-async-iterable#readme",
+  "homepage": "https://github.com/mostjs-community/most-async-iterable#readme",
   "keywords": [
     "most",
     "mostjs",
@@ -53,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ray851107/most-async-iterable.git"
+    "url": "git+https://github.com/mostjs-community/most-async-iterable.git"
   },
   "scripts": {
     "build": "npm run build:dist && uglifyjs dist/index.js -o dist/index.min.js",
