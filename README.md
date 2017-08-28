@@ -1,6 +1,6 @@
 # most-async-iterable
 
-[![Build Status](https://travis-ci.org/ray851107/most-async-iterable.svg?branch=master)](https://travis-ci.org/ray851107/most-async-iterable)
+[![Build Status](https://travis-ci.org/mostjs-community/most-async-iterable.svg?branch=master)](https://travis-ci.org/mostjs-community/most-async-iterable)
 
 Create Most.js Streams from [async iterables](https://github.com/tc39/proposal-async-iteration)
 
